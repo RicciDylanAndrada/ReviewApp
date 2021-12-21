@@ -1,21 +1,14 @@
 {
-<<<<<<< HEAD
   "name": "feedbackapp",
-=======
-  "name": "feedback",
->>>>>>> 3f5b91a94ab65c974e78e7f19cfff018d4c3d17d
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-<<<<<<< HEAD
-=======
-    "gh": "^2.8.9",
->>>>>>> 3f5b91a94ab65c974e78e7f19cfff018d4c3d17d
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
